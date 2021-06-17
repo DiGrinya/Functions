@@ -30,8 +30,6 @@ public class Task1 {
         }
         return (Arrays.equals(arrT,array));
 
-        //if (Arrays.equals(arrT,array)) return true;
-       // return false;
     }
 
 }
